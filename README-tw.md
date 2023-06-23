@@ -17,54 +17,54 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F3EIJG8)
 
-> Mjolnir BSD desktop application for Stable Diffusion Webui
+> Mjolnir BSD 針對Stable Diffusion Webui 所開發的桌面版應用程式
 
-
-- [繁體中文](https://github.com/Mjolnir-Studio/Mjolnir-BSD/blob/main/README.md)
-- English (Current Language)
-
-***
-
-## Hardware equipment demand
-The rendering method currently only supports CPU and NVIDIA GPU to choose from
+- 繁體中文 (目前語言)
+- [English](https://github.com/Mjolnir-Studio/Mjolnir-BSD/blob/main/README.md)
 
 ***
 
-## Install mjolnir BSD
+## 硬體設備需求
+渲染方式目前僅支援 CPU 與 NVIDIA GPU 可以選取 
 
-Currently only a complete Windows environment is provided
+***
 
-[Click me to download the software!](https://github.com/Mjolnir-Studio/Mjolnir-BSD/releases/download/v1.0.3/Mjolnir-BSD-Installer.exe)
+## 安裝 Mjolnir BSD
+
+目前僅提供 完整的 Windows 環境  
+🚧未來會推出 MacOS🚧~~(有錢買MacOS回來開發的話)~~
+
+[點我下載軟體也可以!](https://github.com/Mjolnir-Studio/Mjolnir-BSD/releases/download/v1.0.3/Mjolnir-BSD-Installer.exe)
 ```yml
-Click Mjolnir-BSD-Installer.exe to install it immediately!
+點擊 Mjolnir-BSD-Installer.exe 馬上安裝好!
 ```
 
-## Features
-- Hot switch language
-- Which graphics card to use
-- Global language
+## 功能/特色
+- 熱切換語言
+- 選擇使用哪一張顯示卡
+- 全球性語言
     - 繁體中文
-    - English
-- Automatically judge the system installation file required for Stable Diffusion Webui
-- Portable Pyhton & Git
-- You can choose Python version 3.10.6 ~ 3.10.11
-- Built-in app browser page
-- Support setting Stable Diffusion WebUI
-    - Automatically open the preset/built -in browser page (fixed) when starting
-    - Page theme (bright/dark)
-    - Enable XFormers
-    - Terminal display positive/reverse words
-    - Disable half precision floating point number (FP16)
-    - Discontinue VAE semi -precision floating point number (FP16)
+    - 英文(美國)
+- 自動判別 Stable Diffusion Webui 所需要的系統安裝檔案
+- 免安裝 Pyhton & Git
+- 可以選擇 Python 版本 3.10.6 ~ 3.10.11
+- 內建瀏覽器頁面
+- 支援設定 Stable Diffusion Webui
+    - 啟動時自動開啟預設/內建瀏覽器頁面(固定)
+    - 頁面主題 (明亮/暗黑)
+    - 啟用xformers
+    - 終端機顯示正/反提字詞
+    - 停用半精度浮點數(FP16)
+    - 停用VAE半精度浮點數(FP16)
 
-- Stable Diffusion Webui started by MJOLNIR BSD
-    - When mjolnir BSD is closed, Stable Diffusion Webui is also closed
-    - Start/restart/stop function keys control Stable Diffusion Webui
+- 由 Mjolnir BSD 啟動的 Stable Diffusion Webui
+    - Mjolnir BSD 關閉時，也關閉 Stable Diffusion Webui
+    - 啟動/重啟/停止功能鍵控制Stable Diffusion Webui
 
-## Show your support to us
+## 展現你對我們的支持
 
-Give the Star⭐️ at the top right if this project software is helpful to you, or KO-Fi supports us in a small amount!
-``You can support us in a small amount or a monthly support!``
+給個右上方的 Star ⭐️ 如果這個專案軟體對你有幫助的話，或是 ko-fi 小額支持我們!  
+``可以單次小額支持或是月附支持我們!``
 <!-- <a href="https://www.patreon.com/MjolnirStudioDEV">
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a> -->
@@ -76,13 +76,6 @@ Copyright © 2023 [Mjolnir BSD](https://github.com/Mjolnir-Studio/Mjolnir-BSD) &
 <!-- Copyright © 2023 [Mjolnir Studio](https://github.com/Mjolnir-Studio).<br /> -->
 <!-- This project is [nolicense](ingithub) licensed. -->
 
-### readme.md statement
-This English is assisted by Google's translation. If you have any questions, please follow the traditional Chinese documentation.
-
-
-
-
 <!-- # Hello world
 
 This is Mjolnir BSD create at 2023/05/30 20:06 -->
-
